@@ -1,0 +1,102 @@
+[
+    {
+        "id": 101,
+        "cover": "https://arthurpesah.me/assets/img/blog/surface-code/thumbnail.png",
+        "title": "The Quantum Code",
+        "author": "Emma Fitzgerald",
+        "author_img": "https://formaclorimerbooks.ca/wp-content/uploads/sites/5/2022/10/FitzGerald,%20Emma-246x300.jpg",
+        "posted_date": "2024-10-12",
+        "reading_time": 7,
+        "hashtags": ["#quantum", "#science", "#technology"]
+    },
+    {
+        "id": 102,
+        "cover": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B600%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://www.barnesandnoble.com/blog/wp-content/uploads/2024/08/30159_Blog_LexiRyan_GuestPost_08_08_24.jpg%5D&scale=options%5Blimit%5D,size%5B600x10000%5D&sink=format%5Bwebp%5D",
+        "title": "Beneath the Stars",
+        "author": "Liam Andrews",
+        "author_img": "https://imgcdn.stablediffusionweb.com/2024/5/22/88afec9c-1a07-423c-9ca2-72f6dcbccfbd.jpg",
+        "posted_date": "2024-08-19",
+        "reading_time": 5,
+        "hashtags": ["#romance", "#drama", "#fiction"]
+    },
+    {
+        "id": 103,
+        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "AI in 2050: A Glimpse Ahead",
+        "author": "Sarah Chen",
+        "author_img": "https://images.unsplash.com/photo-1502767089025-6572583495b4",
+        "posted_date": "2024-09-25",
+        "reading_time": 6,
+        "hashtags": ["#AI", "#futurism", "#innovation"]
+    },
+    {
+        "id": 104,
+        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "The Forgotten Forest",
+        "author": "Noah Bennett",
+        "author_img": "https://images.unsplash.com/photo-1502767089025-6572583495b4",
+        "posted_date": "2024-07-14",
+        "reading_time": 8,
+        "hashtags": ["#adventure", "#fantasy", "#mystery"]
+    },
+    {
+        "id": 105,
+        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "Mastering Minimalism",
+        "author": "Ava Thompson",
+        "author_img": "https://images.unsplash.com/photo-1502767089025-6572583495b4",
+        "posted_date": "2024-06-30",
+        "reading_time": 4,
+        "hashtags": ["#lifestyle", "#minimalism", "#selfcare"]
+    },
+    {
+        "id": 106,
+        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "Ocean Whispers",
+        "author": "Mia Williams",
+        "author_img": "https://images.unsplash.com/photo-1502767089025-6572583495b4",
+        "posted_date": "2024-10-05",
+        "reading_time": 9,
+        "hashtags": ["#poetry", "#ocean", "#nature"]
+    },
+    {
+        "id": 107,
+        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "The Blockchain Revolution",
+        "author": "Jack Roberts",
+        "author_img": "https://images.unsplash.com/photo-1502767089025-6572583495b4",
+        "posted_date": "2024-11-01",
+        "reading_time": 11,
+        "hashtags": ["#blockchain", "#cryptocurrency", "#tech"]
+    },
+    {
+        "id": 108,
+        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "Escape to the Andes",
+        "author": "Ella Garcia",
+        "author_img": "https://images.unsplash.com/photo-1502767089025-6572583495b4",
+        "posted_date": "2024-05-23",
+        "reading_time": 33,
+        "hashtags": ["#travel", "#adventure", "#southamerica"]
+    },
+    {
+        "id": 109,
+        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "Psychology of Colors",
+        "author": "Ryan Miller",
+        "author_img": "https://images.unsplash.com/photo-1502767089025-6572583495b4",
+        "posted_date": "2024-11-06",
+        "reading_time": 6,
+        "hashtags": ["#psychology", "#design", "#creativity"]
+    },
+    {
+        "id": 110,
+        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "The Last Migration",
+        "author": "Lily Johnson",
+        "author_img": "https://images.unsplash.com/photo-1502767089025-6572583495b4",
+        "posted_date": "2024-04-17",
+        "reading_time": 6,
+        "hashtags": ["#environment", "#climatechange", "#wildlife"]
+    }
+]
